@@ -1,0 +1,17 @@
+.todo{
+    width: auto;
+    height: auto;
+    background-color: chocolate;
+}
+.done{
+    width: auto;
+    height: auto;
+    background-color: aquamarine;
+}
+.outer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20%;
+    gap: 1rem;
+}
